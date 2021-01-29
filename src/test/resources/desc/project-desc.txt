@@ -1,5 +1,5 @@
 1、netty
-2、jvm
+2、jvm、jdk1.8
 3、es
 4、spring cloud
 5、rabbitmq、kafaka
@@ -9,5 +9,24 @@
 9、其他？
 10、大数据框架
 
+maven
+自动化测试
+大数据项目，OTA报表？
+历史数据变动同步问题
+
+项目
+	目标
+	遇到的问题
+	解决的方案
+	最终的结果
+	压力测试与调整
+	收获
+
+git
+junit
+gradle
+zoopkeeper
+maven
+hadoop
 nginx  tomcat
 MongoDB
