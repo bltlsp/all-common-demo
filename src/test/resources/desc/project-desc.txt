@@ -1,0 +1,13 @@
+1、netty
+2、jvm
+3、es
+4、spring cloud
+5、rabbitmq、kafaka
+6、redis
+7、mysql
+8、并发、多线程
+9、其他？
+10、大数据框架
+
+nginx  tomcat
+MongoDB

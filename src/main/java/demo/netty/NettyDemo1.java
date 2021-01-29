@@ -1,4 +1,4 @@
-package day1;
+package demo.netty;
 
 public class NettyDemo1 {
 
